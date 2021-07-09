@@ -1,4 +1,5 @@
 [![.NET](https://github.com/Vanguard-Fx/sotbot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Vanguard-Fx/sotbot/actions/workflows/dotnet.yml)
+[![Discord](https://img.shields.io/discord/406840993535492109?color=%235865F2&label=Discord&logo=discord&logoColor=%235865F2)](https://discord.gg/sotru)
 
 # Sea of Thieves bot 2.0
 **This bot has been written for [Sea of Thieves RU community](https://discord.gg/sotru).**
